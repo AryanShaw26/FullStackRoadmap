@@ -1,0 +1,20 @@
+.Title{
+    text-align: center;
+    color: #f42003;
+}
+.heading-tag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-tag form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.heading-tag input{
+    padding:8px;
+}
