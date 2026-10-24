@@ -17,7 +17,38 @@ function Contacts(){
                 <input type="text"></input>
                </form>
             </div>
-            <div className="table-implementations">
+            <div className="table-container">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Serial No.</th>
+                            <th>Name</th>
+                            <th>Contacts</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Aryan Shaw</td>
+                            <td>7439xxxxxx</td>
+                        </tr>
+
+                        <tr>
+                            <td>2</td>
+                            <td>Rahul Agarwal</td>
+                            <td>85839xxxx</td>
+                        </tr>
+
+                        <tr>
+                            <td>3</td>
+                            <td>Harsh Gupta</td>
+                            <td>88888xxxxx</td>
+                        </tr>
+                    </tbody>
+                </table>
+
             </div>
 
         </div>

@@ -19,3 +19,27 @@
 .heading-tag input{
     padding:8px;
 }
+.table-container {
+    width: 1130px;
+    height: 460px;
+
+    margin: 60px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.table-container table {
+    margin-top: 35px;
+    border-collapse: collapse;
+}
+
+.table-container th {
+    padding: 18px 20px;
+    border: 1px solid black;
+}
+
+.table-container td {
+    padding: 18px 20px;
+    border: 1px solid black;
+}
