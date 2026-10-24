@@ -12,7 +12,14 @@ function Contacts(){
                     <label>ADD</label>
                     <input type="button"></input>
                 </form>
+               <form>
+                <label>Search</label>
+                <input type="text"></input>
+               </form>
             </div>
+            <div className="table-implementations">
+            </div>
+
         </div>
     );
 }
